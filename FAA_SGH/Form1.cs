@@ -92,7 +92,7 @@ namespace FAA_SGH
         private int MontagemTxt( Int64 cod_consulta)
         {
             int status = 0;
-            string url = "http://intranethspm:5000/consulta/" + cod_consulta;
+            string url = "http://intranethspm:5000/hspmsgh-api/pacientes/paciente/consulta/" + cod_consulta;
             WebRequest request = WebRequest.Create(url);
             try
             {
