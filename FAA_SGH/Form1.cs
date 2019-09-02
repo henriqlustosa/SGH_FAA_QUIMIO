@@ -197,7 +197,7 @@ namespace FAA_SGH
                 //Image myimg = Code128Rendering.MakeBarcodeImage(txtFaa.Text, 1, true);
 
 
-                foreach (Procedimento row in dFaa.procedimentos)
+               /* foreach (Procedimento row in dFaa.procedimentos)
                 {
                     String codigo = row.cd_procedimento.ToString();
                     if (codigo.Length < 8)
@@ -207,7 +207,7 @@ namespace FAA_SGH
                     int soma = Int32.Parse(espaço7.Substring(3, 4).Replace("Y", "")) + Int32.Parse(espaço8.Substring(3, 3));
                     espaço7 = ESC + "*p" + soma + "Y";
                 }
-
+                */
                 file.WriteLine(lines);
 
 
