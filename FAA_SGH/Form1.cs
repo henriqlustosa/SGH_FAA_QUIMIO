@@ -139,8 +139,8 @@ namespace FAA_SGH
                 string espaçohor5 = ESC + "*p750X";  // Descrição do procedimento
                 string espaçohor6 = ESC + "*p500X";  // Clinica
 
-
-
+                string first = dFaa.prontuatrio.ToString().Substring(1,dFaa.prontuatrio.ToString().Length - 2);
+                string last =  dFaa.prontuatrio.ToString().Substring(dFaa.prontuatrio.ToString().Length - 1, 1);
                 DateTime dataImpressão = DateTime.Now;
                 string strDataImpressao = dataImpressão.Hour.ToString() + ":" + dataImpressão.Minute.ToString().PadLeft(2, '0');
 
@@ -162,7 +162,7 @@ namespace FAA_SGH
                 //System.IO.StreamWriter file = new System.IO.StreamWriter(enderecoCompleto, false, Encoding.GetEncoding(28591));
                 System.IO.StreamWriter file = new System.IO.StreamWriter(enderecoCompleto);
 
-                file.WriteLine(duplex + fonte1 + espaço1 + espaçohor1 + "RH: " + dFaa.prontuatrio); // Rh
+                file.WriteLine(duplex + fonte1 + espaço1 + espaçohor1 + "RH: " + first + "/" + last); // Rh
                 //file.WriteLine( fonte1 + espaço1 + espaçohor1 + "RH: " + dFaa.Rh); // Rh
                 file.WriteLine(fonte2 + espaço + espaçohor1 + "Nome: " + dFaa.nome); // Nome
 
