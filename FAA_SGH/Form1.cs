@@ -73,7 +73,7 @@ namespace FAA_SGH
             public string nomeEquipe { get; set; }
             public string nomeProfissional{ get; set; }
             public string orgao { get; set; }
-            public List<Procedimento> procedimentos { get; set; }
+            public List<Procedimento> procedimentos { get; set; }       
         }
 
            
