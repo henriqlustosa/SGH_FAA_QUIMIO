@@ -186,7 +186,7 @@ namespace FAA_SGH
                    */
                 file.WriteLine(espaço5 + espaçohor1 + "Profissional: " + dFaa.nomeProfissional);  // Profissional
 
-                file.WriteLine(fonte1 + espaço6 + espaçohor6 + removerAcentos(dFaa.nomeEspecialidade)); //Clinica
+               // file.WriteLine(fonte1 + espaço6 + espaçohor6 + removerAcentos(dFaa.nomeEspecialidade)); //Clinica
 
                 //file.WriteLine(fonte1 + espaço6 + espaçohor6 + dFaa.Clinica); //Clinica
                 //file.WriteLine(fonte1 + espaço6 + espaçohor6 + "í Í é É");

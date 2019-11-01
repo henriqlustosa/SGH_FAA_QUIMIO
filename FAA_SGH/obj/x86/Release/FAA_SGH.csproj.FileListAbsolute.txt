@@ -9,3 +9,14 @@ C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH\FAA_SGH\obj\x86\R
 C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH\FAA_SGH\obj\x86\Release\FAA_SGH.csproj.GenerateResource.Cache
 C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH\FAA_SGH\obj\x86\Release\FAA_SGH.exe
 C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH\FAA_SGH\obj\x86\Release\FAA_SGH.pdb
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\obj\x86\Release\FAA_SGH.exe
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\obj\x86\Release\FAA_SGH.pdb
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\bin\x86\Release\FAA_SGH.exe
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\bin\x86\Release\FAA_SGH.pdb
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\bin\x86\Release\Newtonsoft.Json.Compact.dll
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\bin\x86\Release\Newtonsoft.Json.Compact.pdb
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\bin\x86\Release\Newtonsoft.Json.Compact.xml
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\obj\x86\Release\FAA_SGH.Form1.resources
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\obj\x86\Release\FAA_SGH.Properties.Resources.resources
+C:\Users\h013026\Documents\Visual Studio 2008\Projects\FAA_SGH - Quimioterapia\FAA_SGH\obj\x86\Release\FAA_SGH.csproj.GenerateResource.Cache
